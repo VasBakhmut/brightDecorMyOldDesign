@@ -1,0 +1,36 @@
+# Dependencies and builds
+node_modules/
+.next/
+out/
+dist/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# Credentials and hosting state
+.env*
+!.env.example
+.vercel/
+*.pem
+*.key
+
+# Local reference material
+/Photos/
+/Detailed specification.odt
+/contact-sheet.jpg
+/photo-index.txt
+/qa/
+
+# Editor and local tooling state
+.idea/
+.vscode/
+.codex/
+.agents/
+.openai/
+.claude/
+.cursor/
+AGENTS.md
+CLAUDE.md
+.DS_Store
+Thumbs.db
+*.log

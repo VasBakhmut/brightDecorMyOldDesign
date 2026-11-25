@@ -1,0 +1,26 @@
+.git/
+.github/
+.next/
+node_modules/
+.env*
+.vercel/
+.idea/
+.vscode/
+.codex/
+.agents/
+.openai/
+.claude/
+.cursor/
+AGENTS.md
+CLAUDE.md
+Photos/
+Detailed specification.odt
+contact-sheet.jpg
+photo-index.txt
+qa/
+tests/
+scripts/
+README.md
+*.log
+*.tsbuildinfo
+next-env.d.ts
